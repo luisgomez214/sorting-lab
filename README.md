@@ -235,6 +235,7 @@ Copy/paste the table into the README file below this line.
 
 <!-- add the table here -->
 |timsort |merge_sorted|quick_sorted|
+|--------|------------|------------|
 |3.97e-06|3.01e-06    |2.56e-06    |
 |2.60e-06|1.02e-05    |1.09e-05    |
 |2.43e-06|1.66e-05    |1.68e-05    |
